@@ -42,7 +42,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <img 
-                src="https://cdn.poehali.dev/projects/61ad0e2c-a8a0-49b7-b682-071b21b3ae87/files/3176d174-2216-441c-9500-73a2aa22dce6.jpg" 
+                src="https://cdn.poehali.dev/projects/61ad0e2c-a8a0-49b7-b682-071b21b3ae87/files/1a19f509-ad3b-4457-a200-cd42534a4ef5.jpg" 
                 alt="Mascot" 
                 className="w-12 h-12 object-contain"
               />
@@ -99,7 +99,7 @@ const Index = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-secondary/20 rounded-full blur-3xl"></div>
               <img 
-                src="https://cdn.poehali.dev/projects/61ad0e2c-a8a0-49b7-b682-071b21b3ae87/files/3176d174-2216-441c-9500-73a2aa22dce6.jpg" 
+                src="https://cdn.poehali.dev/projects/61ad0e2c-a8a0-49b7-b682-071b21b3ae87/files/1a19f509-ad3b-4457-a200-cd42534a4ef5.jpg" 
                 alt="NatureLab Mascot" 
                 className="relative w-full max-w-md mx-auto animate-scale-in"
               />
@@ -150,7 +150,7 @@ const Index = () => {
           <div className="mt-16 bg-card rounded-3xl p-8 md:p-12 shadow-sm">
             <div className="flex flex-col md:flex-row items-center gap-8">
               <img 
-                src="https://cdn.poehali.dev/projects/61ad0e2c-a8a0-49b7-b682-071b21b3ae87/files/3176d174-2216-441c-9500-73a2aa22dce6.jpg" 
+                src="https://cdn.poehali.dev/projects/61ad0e2c-a8a0-49b7-b682-071b21b3ae87/files/1a19f509-ad3b-4457-a200-cd42534a4ef5.jpg" 
                 alt="Mascot" 
                 className="w-40 h-40 object-contain"
               />
@@ -209,7 +209,7 @@ const Index = () => {
           <div className="flex flex-col md:flex-row items-center justify-between gap-6">
             <div className="flex items-center gap-3">
               <img 
-                src="https://cdn.poehali.dev/projects/61ad0e2c-a8a0-49b7-b682-071b21b3ae87/files/3176d174-2216-441c-9500-73a2aa22dce6.jpg" 
+                src="https://cdn.poehali.dev/projects/61ad0e2c-a8a0-49b7-b682-071b21b3ae87/files/1a19f509-ad3b-4457-a200-cd42534a4ef5.jpg" 
                 alt="Mascot" 
                 className="w-12 h-12 object-contain"
               />
